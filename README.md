@@ -40,45 +40,50 @@ clientes, e a análise profunda de dados para solucionar problemas específicos
 de cada empresa, torna a relação menos burocrática e “travada” com os
 clientes, ao mesmo tempo que soluciona cada problema de maneira única.
 
-Repositórios
-ClienteRepository
-DevolucaoRepository
-EmpresaRepository
-EnderecoRepository
-ProdutoRepository
-StatusPedidoSolicitanteRepository
-TelefoneRepository
-Resources
-DevolucaoResource
-Rotas e Verbos:
-"localhost/devolucao" - GET
-"localhost/devolucao" - POST
-"localhost/devolucao/{id}" - GET
-EmpresaResource
-Rotas e Verbos:
-"localhost/empresa" - GET
-"localhost/empresa" - POST
-"localhost/empresa/{id}" - GET
-EnderecoResource
-Rotas e Verbos:
-"localhost/endereco" - GET
-"localhost/endereco" - POST
-"localhost/endereco/{id}" - GET
-ProdutoResource
-Rotas e Verbos:
-"localhost/produto" - GET
-"localhost/produto" - POST
-"localhost/produto/{id}" - GET
-StatusPedidoResource
-Rotas e Verbos:
-"localhost/statuspedido" - GET
-"localhost/statuspedido" - POST
-"localhost/statuspedido/{id}" - GET
-TelefoneResource
-Rotas e Verbos:
-"localhost/telefone" - GET
-"localhost/telefone" - POST
-"localhost/telefone/{id}" - GET
+1. Repositórios
+ 1.ClienteRepository
+ 2.DevolucaoRepository
+ 3.EmpresaRepository
+ 4.EnderecoRepository
+ 5.ProdutoRepository
+ 6.StatusPedidoSolicitanteRepository
+ 7.TelefoneRepository
+
+2.Resources
+ 2.DevolucaoResource
+  Rotas e Verbos:
+  "localhost/devolucao" - GET
+  "localhost/devolucao" - POST
+  "localhost/devolucao/{id}" - GET
+  
+ 3.EmpresaResource
+  Rotas e Verbos:
+  "localhost/empresa" - GET
+  "localhost/empresa" - POST
+  "localhost/empresa/{id}" - GET
+  
+ 4.EnderecoResource
+  Rotas e Verbos:
+  "localhost/endereco" - GET
+  "localhost/endereco" - POST
+  "localhost/endereco/{id}" - GET
+ 5.ProdutoResource
+  Rotas e Verbos:
+    "localhost/produto" - GET
+    "localhost/produto" - POST
+    "localhost/produto/{id}" - GET
+    
+ 6.StatusPedidoResource
+  Rotas e Verbos:
+    "localhost/statuspedido" - GET
+    "localhost/statuspedido" - POST
+    "localhost/statuspedido/{id}" - GET
+    
+ 7.TelefoneResource
+  Rotas e Verbos:
+    "localhost/telefone" - GET
+    "localhost/telefone" - POST
+    "localhost/telefone/{id}" - GET
 
 <a id="#_Como_Acessar"></a>
 
