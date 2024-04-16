@@ -51,12 +51,12 @@ clientes, ao mesmo tempo que soluciona cada problema de maneira única.
    6. StatusPedidoSolicitanteRepository
    7. TelefoneRepository
 
-5. A criação dos Seguintes Resources:
+2. A criação dos Seguintes Resources:
 
    1. **DevolucaoResource** - ROTAS e VERBOS:
-      1. "localhost/devolucao" - GET;
-      2. "localhost/devolucao" - POST;
-      3."localhost/devolucao/{id}" - GET;
+      1. "localhost/devolucao" - GET.
+      2. "localhost/devolucao" - POST.
+      3."localhost/devolucao/{id}" - GET.
    
    2.**EmpresaResource** - ROTAS e VERBOS:
      1."localhost/empresa" - GET;
