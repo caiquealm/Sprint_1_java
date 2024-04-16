@@ -90,5 +90,5 @@ git clone https://github.com/Benefrancis/spring-pj-chamados-tecnicos && cd sprin
 <a id="_Diagrama_de_Classes"></a>
 
 # Diagrama de Classes
-![diagrama-de-classe-chamado-tecnico.png](documentacao%2Fdiagrama-de-classe-chamado-tecnico.png)
+![dfoto diagrama.PNG](documentacao%2foto_diagrama.PN)
 
