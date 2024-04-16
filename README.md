@@ -54,14 +54,14 @@ clientes, ao mesmo tempo que soluciona cada problema de maneira única.
 2. A criação dos Seguintes Resources:
 
    1. **DevolucaoResource** - ROTAS e VERBOS:
-      1. "localhost/devolucao" - GET.
-      2. "localhost/devolucao" - POST.
-      3."localhost/devolucao/{id}" - GET.
+      1. "localhost/devolucao" - **GET**;
+      2. "localhost/devolucao" - **POST**.
+      3."localhost/devolucao/{id}" - **GET**
    
    2.**EmpresaResource** - ROTAS e VERBOS:
-     1."localhost/empresa" - GET.
-     2."localhost/empresa" - POST.
-     3."localhost/empresa/{id}" - GET.
+     1."localhost/empresa" - **GET**;
+     2."localhost/empresa" - **POST**
+     3."localhost/empresa/{id}" - **GET**
    
    3.**EnderecoResource** - ROTAS e VERBOS:
      1."localhost/endereco" - GET.
