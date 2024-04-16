@@ -59,29 +59,29 @@ clientes, ao mesmo tempo que soluciona cada problema de maneira única.
       3."localhost/devolucao/{id}" - GET;
    
    2.**EmpresaResource** - ROTAS e VERBOS:
-     a."localhost/empresa" - GET;
-     b."localhost/empresa" - POST;
-     c."localhost/empresa/{id}" - GET;
+     1."localhost/empresa" - GET;
+     2."localhost/empresa" - POST;
+     3."localhost/empresa/{id}" - GET;
    
    3.**EnderecoResource** - ROTAS e VERBOS:
-     a."localhost/endereco" - GET;
-     b."localhost/endereco" - POST;
-     c."localhost/endereco/{id}" - GET;
+     1."localhost/endereco" - GET;
+     2."localhost/endereco" - POST;
+     3."localhost/endereco/{id}" - GET;
 
    4.**ProdutoResource** - ROTAS e VERBOS:
-     a."localhost/produto" - GET;
-     b."localhost/produto" - POST;
-     c."localhost/produto/{id}" - GET;
+     1."localhost/produto" - GET;
+     2."localhost/produto" - POST;
+     3."localhost/produto/{id}" - GET;
    
    5.**StatusPedidoResource** - ROTAS e VERBOS:
-    a."localhost/statuspedido" - GET;
-    b."localhost/statuspedido" - POST;
-    c."localhost/statuspedido/{id}" - GET;
+    1."localhost/statuspedido" - GET;
+    2."localhost/statuspedido" - POST;
+    3."localhost/statuspedido/{id}" - GET;
    
    6.**TelefoneResource** - ROTAS e VERBOS:
-     a."localhost/telefone" - GET;
-     b."localhost/telefone" - POST;
-     c."localhost/telefone/{id}" - GET;
+     1."localhost/telefone" - GET;
+     2."localhost/telefone" - POST;
+     3."localhost/telefone/{id}" - GET;
    
 
 <a id="#_Como_Acessar"></a>
