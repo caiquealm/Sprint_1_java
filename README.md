@@ -90,7 +90,7 @@ git clone https://github.com/caiquealm/Sprint_1_java && cd Sprint_1_java
 <a id="_Diagrama_de_Classes"></a>
 
 # Diagrama de Classes
-![foto-diagrama-de-classes.PNG](diagrama_de_classe%2Ffoto-diagrama-de-classes.PNG)
+![foto-diagrama-de-classes.PNG](documentação%2Ffoto-diagrama-de-classes.PNG)
 
 <a id="#_Link_Video_Pitch"></a>
 
