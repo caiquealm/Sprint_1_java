@@ -40,15 +40,15 @@ clientes, e a análise profunda de dados para solucionar problemas específicos
 de cada empresa, torna a relação menos burocrática e “travada” com os
 clientes, ao mesmo tempo que soluciona cada problema de maneira única.
 
-1. Repositórios
- 1.ClienteRepository
- 2.DevolucaoRepository
- 3.EmpresaRepository
- 4.EnderecoRepository
- 5.ProdutoRepository
- 6.StatusPedidoSolicitanteRepository
- 7.TelefoneRepository
-
+1. **Repositorios** - Verbos GET E POST
+ 1. ClienteRepository
+ 2. DevolucaoRepository
+ 3. EmpresaRepository
+ 4. EnderecoRepository
+ 5. ProdutoRepository
+ 6. StatusPedidoSolicitanteRepository
+ 7. TelefoneRepository    
+ 
 2.Resources
  2.DevolucaoResource
   Rotas e Verbos:
