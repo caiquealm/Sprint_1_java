@@ -37,13 +37,7 @@ de cada empresa, torna a relação menos burocrática e “travada” com os
 clientes, ao mesmo tempo que soluciona cada problema de maneira única.
 
 
-1. O Mapeamento Objeto Relacional das primeiras classes envolvidas neste projeto de software;
-
-2. A criação automatizada das tabelas no banco de dados Oracle;
-
-3. A persistência de todos os dados, e;
-
-4. A criação dos Seguintes Repositorios :
+1. A criação dos Seguintes Repositorios :
 
    1. ChamadoRepository
    2. EnderecoRepository
@@ -87,6 +81,8 @@ clientes, ao mesmo tempo que soluciona cada problema de maneira única.
 
 
 <a id="#_Como_Acessar"></a>
+
+# Como acessar
 ```shell
 git clone https://github.com/Benefrancis/spring-pj-chamados-tecnicos && cd spring-pj-chamados-tecnicos && git checkout correcao
 ```
