@@ -53,35 +53,35 @@ clientes, ao mesmo tempo que soluciona cada problema de maneira única.
 
 5. A criação dos Seguintes Resources:
 
-   **DevolucaoResource** - ROTAS e VERBOS:
-   "localhost/devolucao" - GET;
-   "localhost/devolucao" - POST;
-   "localhost/devolucao/{id}" - GET;
+   1. **DevolucaoResource** - ROTAS e VERBOS:
+      a. "localhost/devolucao" - GET;
+      b. "localhost/devolucao" - POST;
+      c."localhost/devolucao/{id}" - GET;
    
-   **EmpresaResource** - ROTAS e VERBOS:
-   "localhost/empresa" - GET;
-   "localhost/empresa" - POST;
-   "localhost/empresa/{id}" - GET;
+   2.**EmpresaResource** - ROTAS e VERBOS:
+     a."localhost/empresa" - GET;
+     b."localhost/empresa" - POST;
+     c."localhost/empresa/{id}" - GET;
    
-   **EnderecoResource** - ROTAS e VERBOS:
-   "localhost/endereco" - GET;
-   "localhost/endereco" - POST;
-   "localhost/endereco/{id}" - GET;
+   3.**EnderecoResource** - ROTAS e VERBOS:
+     a."localhost/endereco" - GET;
+     b."localhost/endereco" - POST;
+     c."localhost/endereco/{id}" - GET;
 
-   **ProdutoResource** - ROTAS e VERBOS:
-   "localhost/produto" - GET;
-   "localhost/produto" - POST;
-   "localhost/produto/{id}" - GET;
+   4.**ProdutoResource** - ROTAS e VERBOS:
+     a."localhost/produto" - GET;
+     b."localhost/produto" - POST;
+     c."localhost/produto/{id}" - GET;
    
-   **StatusPedidoResource** - ROTAS e VERBOS:
-   "localhost/statuspedido" - GET;
-   "localhost/statuspedido" - POST;
-   "localhost/statuspedido/{id}" - GET;
+   5.**StatusPedidoResource** - ROTAS e VERBOS:
+    a."localhost/statuspedido" - GET;
+    b."localhost/statuspedido" - POST;
+    c."localhost/statuspedido/{id}" - GET;
    
-   **TelefoneResource** - ROTAS e VERBOS:
-   "localhost/telefone" - GET;
-   "localhost/telefone" - POST;
-   "localhost/telefone/{id}" - GET;
+   6.**TelefoneResource** - ROTAS e VERBOS:
+     a."localhost/telefone" - GET;
+     b."localhost/telefone" - POST;
+     c."localhost/telefone/{id}" - GET;
    
 
 <a id="#_Como_Acessar"></a>
