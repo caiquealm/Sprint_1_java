@@ -1,7 +1,4 @@
-# 🔧🤓👍🏾 Benezinho Assitência Técnica 
-
-CP I - **Java Advanced** aplicado em 13/03/2024.
-
+# SPRINT 1 - DELIVERY GUARDIAN
 
 |          | **Java Advanced** |
 |------------------------------------------|-------------------|
