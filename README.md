@@ -49,7 +49,7 @@ clientes, ao mesmo tempo que soluciona cada problema de maneira única.
  6. StatusPedidoSolicitanteRepository
  7. TelefoneRepository    
  
-2.**Resources**
+2.**Resources**  
  1.**DevolucaoResource** - Verbos GET e POST:  
   1. "localhost/devolucao" - GET
   2. "localhost/devolucao" - POST
