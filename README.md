@@ -39,46 +39,46 @@ clientes, ao mesmo tempo que soluciona cada problema de maneira única.
 
 1. A criação dos Seguintes Repositorios :
 
-   1. ChamadoRepository
-   2. EnderecoRepository
-   3. TelefoneRepository
-   4. EspecialidadeRepository
-   5. OcorrenciaRepository
-   6. SolicitanteRepository
-   7. TecnicoRepository
+   1. ClienteRepository
+   2. DevolucaoRepository
+   3. EmpresaRepository
+   4. EnderecoRepository
+   5. ProdutoRepository
+   6. StatusPedidoSolicitanteRepository
+   7. TelefoneRepository
 
 5. A criação dos Seguintes Resources:
 
-   1. **ChamadoResource** com as seguintes ROTAS e VERBOS:
-      1. "localhost/chamado" - **GET**;
-      2. "localhost/chamado" - **POST**
-      3. "logalhost/chamado/{id}" - **GET**
-    
-   2. **EspecialidadeResource** com as seguintes ROTAS e VERBOS:
-      1. "localhost/especialidade" - **GET**;
-      2. "localhost/especialidade" - **POST**
-      3. "logalhost/especialidade/{id}" - **GET**
-      
-   3. **OcorrenciaResource** com as seguintes ROTAS e VERBOS:
-      1. "localhost/ocorrencia" - **GET**;
-      2. "localhost/ocorrencia" - **POST**;
-      3. "logalhost/ocorrencia/{id}" - **GET**
+   **DevolucaoResource** - ROTAS e VERBOS:
+   "localhost/devolucao" - GET;
+   "localhost/devolucao" - POST
+   "localhost/devolucao/{id}" - GET
+   
+   **EmpresaResource** - ROTAS e VERBOS:
+   "localhost/empresa" - GET;
+   "localhost/empresa" - POST
+   "localhost/empresa/{id}" - GET
+   
+   **EnderecoResource** - ROTAS e VERBOS:
+   "localhost/endereco" - GET;
+   "localhost/endereco" - POST
+   "localhost/endereco/{id}" - GET
 
-   4. **SolicitanteResource** com as seguintes ROTAS e VERBOS:
-      1. "localhost/solicitante" - **GET**;
-      2. "localhost/solicitante" - **POST**;
-      3. "logalhost/solicitante/{id}" - **GET**;
-      4. "logalhost/solicitante/{id}/endereco" - **GET**
-      5. "logalhost/solicitante/{id}/telefone" - **POST**;
-      6. "logalhost/solicitante/{id}/telefone" - **GET**
-      7. "logalhost/solicitante/{id}/endereco" - **POST**
-     
-   5. **TecnicoResource** com as seguintes ROTAS e VERBOS:
-      1. "localhost/tecnico" - **GET**;
-      2. "localhost/tecnico" - **POST**;
-      3. "logalhost/tecnico/{id}" - **GET**;
-      4. "logalhost/tecnico/{id}/especialidade - **POST**
-
+   **ProdutoResource** - ROTAS e VERBOS:
+   "localhost/produto" - GET;
+   "localhost/produto" - POST
+   "localhost/produto/{id}" - GET
+   
+   **StatusPedidoResource** - ROTAS e VERBOS:
+   "localhost/statuspedido" - GET;
+   "localhost/statuspedido" - POST
+   "localhost/statuspedido/{id}" - GET
+   
+   **TelefoneResource** - ROTAS e VERBOS:
+   "localhost/telefone" - GET;
+   "localhost/telefone" - POST
+   "localhost/telefone/{id}" - GET
+   
 
 <a id="#_Como_Acessar"></a>
 
