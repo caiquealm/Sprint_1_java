@@ -50,7 +50,7 @@ clientes, ao mesmo tempo que soluciona cada problema de maneira única.
  7. TelefoneRepository    
  
 2.**Resources**  
- 1.**DevolucaoResource** - Verbos GET e POST:  
+ 2.**DevolucaoResource** - Verbos GET e POST:  
   1. "localhost/devolucao" - GET
   2. "localhost/devolucao" - POST
   3. "localhost/devolucao/{id}" - GET
@@ -58,11 +58,12 @@ clientes, ao mesmo tempo que soluciona cada problema de maneira única.
 
   
   
- 3.EmpresaResource
-  Rotas e Verbos:
-  "localhost/empresa" - GET
-  "localhost/empresa" - POST
-  "localhost/empresa/{id}" - GET
+ 3.**EmpresaResource** - Verbos GET e POST:  
+  1."localhost/empresa" - GET  
+  2."localhost/empresa" - POST  
+  3."localhost/empresa/{id}" - GET
+ 
+ 
   
  4.EnderecoResource
   Rotas e Verbos:
