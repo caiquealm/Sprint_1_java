@@ -55,33 +55,33 @@ clientes, ao mesmo tempo que soluciona cada problema de maneira única.
 
    **DevolucaoResource** - ROTAS e VERBOS:
    "localhost/devolucao" - GET;
-   "localhost/devolucao" - POST
-   "localhost/devolucao/{id}" - GET
+   "localhost/devolucao" - POST;
+   "localhost/devolucao/{id}" - GET;
    
    **EmpresaResource** - ROTAS e VERBOS:
    "localhost/empresa" - GET;
-   "localhost/empresa" - POST
-   "localhost/empresa/{id}" - GET
+   "localhost/empresa" - POST;
+   "localhost/empresa/{id}" - GET;
    
    **EnderecoResource** - ROTAS e VERBOS:
    "localhost/endereco" - GET;
-   "localhost/endereco" - POST
-   "localhost/endereco/{id}" - GET
+   "localhost/endereco" - POST;
+   "localhost/endereco/{id}" - GET;
 
    **ProdutoResource** - ROTAS e VERBOS:
    "localhost/produto" - GET;
-   "localhost/produto" - POST
-   "localhost/produto/{id}" - GET
+   "localhost/produto" - POST;
+   "localhost/produto/{id}" - GET;
    
    **StatusPedidoResource** - ROTAS e VERBOS:
    "localhost/statuspedido" - GET;
-   "localhost/statuspedido" - POST
-   "localhost/statuspedido/{id}" - GET
+   "localhost/statuspedido" - POST;
+   "localhost/statuspedido/{id}" - GET;
    
    **TelefoneResource** - ROTAS e VERBOS:
    "localhost/telefone" - GET;
-   "localhost/telefone" - POST
-   "localhost/telefone/{id}" - GET
+   "localhost/telefone" - POST;
+   "localhost/telefone/{id}" - GET;
    
 
 <a id="#_Como_Acessar"></a>
