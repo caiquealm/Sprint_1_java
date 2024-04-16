@@ -40,7 +40,7 @@ clientes, e a análise profunda de dados para solucionar problemas específicos
 de cada empresa, torna a relação menos burocrática e “travada” com os
 clientes, ao mesmo tempo que soluciona cada problema de maneira única.
 
-1. **Repositorios** - Verbos GET E POST
+1. **Repositorios** 
  1. ClienteRepository
  2. DevolucaoRepository
  3. EmpresaRepository
@@ -49,12 +49,14 @@ clientes, ao mesmo tempo que soluciona cada problema de maneira única.
  6. StatusPedidoSolicitanteRepository
  7. TelefoneRepository    
  
-2.Resources
- 2.DevolucaoResource
-  Rotas e Verbos:
-  "localhost/devolucao" - GET
-  "localhost/devolucao" - POST
-  "localhost/devolucao/{id}" - GET
+2.**Resources**
+ 1.**DevolucaoResource** - Verbos GET e POST:  
+  1. "localhost/devolucao" - GET
+  2. "localhost/devolucao" - POST
+  3. "localhost/devolucao/{id}" - GET
+  
+
+  
   
  3.EmpresaResource
   Rotas e Verbos:
