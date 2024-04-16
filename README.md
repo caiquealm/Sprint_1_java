@@ -10,7 +10,7 @@
 | **ALUNO:** ANA CAROLINA TAVARES | RM: 552283       |
 
 
-# Proposta da Solução
+# Sprin 1 - Java
 
 
 [Proposta da Solução ](#_Proposta_da_Solução)
@@ -25,7 +25,7 @@
 
 <a id="#_Proposta_da_Solução"></a>
 
-# Estudo de caso
+# Proposta da Solução
 
 
 O negócio é fornecer soluções de Assistência Virtual para Clientes para
@@ -91,4 +91,11 @@ git clone https://github.com/caiquealm/Sprint_1_java && cd Sprint_1_java
 
 # Diagrama de Classes
 ![foto-diagrama-de-classes.PNG](diagrama_de_classe%2Ffoto-diagrama-de-classes.PNG)
+
+<a id="#_Link_Video_Pitch"></a>
+
+# Link do Video
+[Pitch](https://www.youtube.com/watch?v=cvNdVcVRNn8)
+
+
 
