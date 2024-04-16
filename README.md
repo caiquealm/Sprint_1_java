@@ -19,6 +19,10 @@
 
 [Como Acessar ](#_Como_Acessar)
 
+[Link_Video_Pitch](#_Link_Video_Pitch)
+
+[Testes_API](#_Testes_API)
+
 <a id="#_Proposta_da_Solução"></a>
 
 # Estudo de caso
@@ -84,7 +88,7 @@ clientes, ao mesmo tempo que soluciona cada problema de maneira única.
 
 # Como acessar
 ```shell
-git clone https://github.com/Benefrancis/spring-pj-chamados-tecnicos && cd spring-pj-chamados-tecnicos && git checkout correcao
+git clone https://github.com/caiquealm/Sprint_1_java && cd Sprint_1_java 
 ```
 
 <a id="_Diagrama_de_Classes"></a>
